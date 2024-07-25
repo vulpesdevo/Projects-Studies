@@ -1,0 +1,45 @@
+C:\Users\sleep\source\repos\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\bin\Debug\SDCA BUSINESS CENTER.exe.config
+C:\Users\sleep\source\repos\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\bin\Debug\SDCA BUSINESS CENTER.exe
+C:\Users\sleep\source\repos\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\bin\Debug\SDCA BUSINESS CENTER.pdb
+C:\Users\sleep\source\repos\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.csproj.AssemblyReference.cache
+C:\Users\sleep\source\repos\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.Form1.resources
+C:\Users\sleep\source\repos\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.Properties.Resources.resources
+C:\Users\sleep\source\repos\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.csproj.GenerateResource.cache
+C:\Users\sleep\source\repos\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.csproj.CoreCompileInputs.cache
+C:\Users\sleep\source\repos\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.exe
+C:\Users\sleep\source\repos\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.pdb
+C:\Users\sleep\source\repos\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.catalog.resources
+C:\Users\sleep\source\repos\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.editproducts.resources
+C:\Users\sleep\source\repos\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.login.resources
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\bin\Debug\Database.mdf
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\bin\Debug\Database_log.ldf
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\bin\Debug\SDCA BUSINESS CENTER.exe.config
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\bin\Debug\SDCA BUSINESS CENTER.exe
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\bin\Debug\SDCA BUSINESS CENTER.pdb
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.csproj.AssemblyReference.cache
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.catalog.resources
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.editproducts.resources
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.Form1.resources
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.login.resources
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.Properties.Resources.resources
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.csproj.GenerateResource.cache
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.csproj.CoreCompileInputs.cache
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.exe
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.pdb
+C:\Users\Mark Francis\Desktop\2023-2024\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.receipt.resources
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\bin\Debug\Database.mdf
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\bin\Debug\Database_log.ldf
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\bin\Debug\SDCA BUSINESS CENTER.exe.config
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\bin\Debug\SDCA BUSINESS CENTER.exe
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\bin\Debug\SDCA BUSINESS CENTER.pdb
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.csproj.AssemblyReference.cache
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.catalog.resources
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.editproducts.resources
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.Form1.resources
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.login.resources
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.Properties.Resources.resources
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA_BUSINESS_CENTER.receipt.resources
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.csproj.GenerateResource.cache
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.csproj.CoreCompileInputs.cache
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.exe
+C:\Users\Mark Francis\Desktop\2023-2024\Sem1\Event Driven Programming\Tasks\SDCA BUSINESS CENTER\SDCA BUSINESS CENTER\obj\Debug\SDCA BUSINESS CENTER.pdb

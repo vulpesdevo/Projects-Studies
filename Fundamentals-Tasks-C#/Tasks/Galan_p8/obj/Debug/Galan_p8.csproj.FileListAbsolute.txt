@@ -1,0 +1,7 @@
+C:\Users\Mark Francis\Documents\School\Event Driven Programming\Tasks\Galan_p8\bin\Debug\Galan_p8.exe.config
+C:\Users\Mark Francis\Documents\School\Event Driven Programming\Tasks\Galan_p8\bin\Debug\Galan_p8.exe
+C:\Users\Mark Francis\Documents\School\Event Driven Programming\Tasks\Galan_p8\bin\Debug\Galan_p8.pdb
+C:\Users\Mark Francis\Documents\School\Event Driven Programming\Tasks\Galan_p8\obj\Debug\Galan_p8.csproj.AssemblyReference.cache
+C:\Users\Mark Francis\Documents\School\Event Driven Programming\Tasks\Galan_p8\obj\Debug\Galan_p8.csproj.CoreCompileInputs.cache
+C:\Users\Mark Francis\Documents\School\Event Driven Programming\Tasks\Galan_p8\obj\Debug\Galan_p8.exe
+C:\Users\Mark Francis\Documents\School\Event Driven Programming\Tasks\Galan_p8\obj\Debug\Galan_p8.pdb
