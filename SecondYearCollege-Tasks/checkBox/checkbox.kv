@@ -1,0 +1,28 @@
+<myCheckBox>
+    BoxLayout:
+        orientation: 'vertical'
+        size: root.width, root.height
+        
+        Label:
+            text: 'CHECK BOXES'
+            font_size: 32
+        
+        GridLayout:
+            cols: 3
+
+            Label:
+                text: '                 '
+            CheckBox:
+                backgrpound_color: (0,1,0,1)
+                on_active: root.check_Box(self.active)
+            Label:
+                text: 'Check Box 1:'
+                halign: 'right'
+                font_size: 32
+        ##checkbox
+                
+        Label:
+            id: check
+            text:""
+            font_size: 32
+            

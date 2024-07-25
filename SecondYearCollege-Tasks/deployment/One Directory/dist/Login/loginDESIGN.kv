@@ -1,0 +1,103 @@
+#:import Factory kivy.factory.Factory
+<TextInput>
+    multiline: False
+    font_size: 20
+    size_hint: .7,.2
+    pos_hint: {"center_x": 0.5, "center_y": 0.5}
+
+<Login>:
+    un:un
+    pword:pword
+    GridLayout:
+        cols:1
+        size: root.width, root.height
+        padding:40
+        canvas:
+            Rectangle:
+                source: 'bg.jpg'
+                size: self.size
+                pos: self.pos
+        GridLayout:
+            cols:1
+            padding:40
+            canvas:
+                Color:
+                    rgba: 1, 1, 1, 0.25
+                RoundedRectangle:
+                    size: self.size
+                    pos: self.pos
+                    radius: [38,]
+            FloatLayout:
+                size: 450,650
+                pos_hint: {"center_x": 0.5, "center_y":.5}
+                canvas:
+                    Color:
+                        rgba: 1, 1, 1, 0.3
+                    RoundedRectangle:
+                        size: self.size
+                        pos: self.pos
+                        radius: [38,]
+                BoxLayout:
+                    orientation: 'vertical'
+                    spacing: 10
+                    padding:30
+                    pos_hint: {"center_x": 0.5, "center_y":.5}
+                    Label:
+                        text:'[u]SignIn[/u]'
+                        color: 240/255, 160/255, 75/255
+                        font_size: 55
+                        markup: True  
+                        bold: True
+                        size_hint: 1,1
+                
+                    TextInput:
+                        id: un
+                        hint_text:'Username'
+                        
+                        halign: 'center'
+                        multiline: False
+                    TextInput:
+                        id: pword
+                        hint_text: 'Password'
+                        password: True
+                        halign: 'center'
+                        multiline: False
+                    Button:
+                        text: 'Login'
+                        font_size: 22
+                        size_hint: .7,.2
+                        pos_hint: {"center_x": 0.5, "center_y": 0.5}
+                        background_color:(0,0,0,0)
+                        background_normal:''
+                        canvas.before:
+                            Color:
+                                rgba: 211/255, 107/255, 0/255,1
+                            RoundedRectangle:
+                                size: self.size
+                                pos: self.pos
+                                radius: [10,]
+                        on_press: root.signin_button()
+                    Label:
+                        text: 'Forgot Password?'
+                        size_hint: .7,.1
+                        pos_hint: {"center_x": 0.5, "center_y": 0.5}   
+                    FloatLayout:
+                        Label:
+                            text:"Don't have an account?"
+                            size_hint: None, None
+                            pos_hint: {'right':.45, 'y': 0.15}
+                            size: 200,50
+                        Button:
+                            text:'Register'
+                            font_size: 20
+                            size_hint: .4,.2
+                            pos_hint: {'right':1.02, 'y': 0.2}
+                            background_color:(0,0,0,0)
+                            background_normal:''
+                            canvas.before:
+                                Color:
+                                    rgba: 24/255, 58/255, 29/255,1
+                                RoundedRectangle:
+                                    size: self.size
+                                    pos: self.pos
+                                    radius: [15,]

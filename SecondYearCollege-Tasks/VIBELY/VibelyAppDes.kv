@@ -1,0 +1,257 @@
+<vibelyApp>:
+    screen_manager: screen_managerA
+    ScreenManager:
+        id:screen_managerA
+        Screen:
+            id: dash_screen
+            name: "dashScreen"
+            MDBoxLayout:
+                orientation: "vertical"
+                size: root.size
+                MDTopAppBar:
+                    id: toolbar
+                    title: "Navigation Bar"
+                    left_action_items: [["menu"]]
+                    right_action_items: [["dots-vertical", lambda x: root.dropdown(x)]]
+
+                MDBottomNavigation:
+                    panel_color: app.theme_cls.primary_color
+                    text_color_active: app.theme_cls.primary_dark
+                    text_color_normal: 1,1,1,1
+                    use_text: False
+                    transition_duration: .2 #animate a fade in screen switch
+                    MDBottomNavigationItem:
+                        name: 'screen 1'
+                        icon: 'magnify'
+                        #badge_icon: "numeric-10"
+                        
+                        MDLabel:
+                            text: 'GALAN/ VILLARUEL TAB'
+                            halign: 'center'
+                            font_size: '55sp'
+                            theme_text_color: "Custom"
+                            text_color: app.theme_cls.primary_color
+                    MDBottomNavigationItem:
+                        name: 'screen 2'
+                        icon: 'head-snowflake-outline'
+                        #badge_icon: "numeric-10"
+                        
+                        MDLabel:
+                            text: 'ALL()'
+                            halign: 'center'
+                            font_size: '55sp'
+                            theme_text_color: "Custom"
+                            text_color: app.theme_cls.primary_color
+
+                    MDBottomNavigationItem:
+                        name: 'screen 3'
+                
+                        icon: 'home-outline'
+                        
+                        #badge_icon: "numeric-10"
+                        MDLabel:
+                            text: 'ALL()'
+                            halign: 'center'
+                            font_size: '55sp'
+                            theme_text_color: "Custom"
+                            text_color: app.theme_cls.primary_color
+
+                    MDBottomNavigationItem:
+                        name: 'screen 4'
+                        icon: 'heart'
+                        #badge_icon: "numeric-10"
+                        MDLabel:
+                            text: "FAVORITES"
+                            font_size: 60
+                            bold: True
+                            halign: "center"
+                            valigm: "top"
+                            pos_hint: {'center_x':.52, 'y':.45}
+                            color: app.theme_cls.primary_color
+                        MDBoxLayout:
+                            orientation: 'vertical'
+                            halign: 'center'
+                            
+                            MDFloatLayout:
+                                orientation: 'horizontal'
+                                spacing: 100
+                                size_hint: 1,0.9
+                                #pos_hint: {'center_x':0.54, 'center_y':.85}
+                                Carousel:
+                                    pos_hint:{'center_x':0.5, 'center_y':.95}
+                                    direction: "right"
+                                    size_hint: .6,0.4
+                                    MDBoxLayout:
+                                        orientation: 'vertical'
+                                        #pos_hint: {'center_x':0.5, 'center_y':.5}
+                                        padding: 10,40,10,10
+                                        spacing: '50dp'
+                                        MDBoxLayout:
+                                            orientation: 'horizontal'
+                                            #pos_hint: {'center_x':0.5, 'center_y':.5}
+                                            spacing: 35
+
+                                            MDFillRoundFlatButton:
+                                                #icon: 'facebook'
+                                                icon_size: "75sp"
+                                                text: "GAMES"
+                                                text_color: "white"
+                                                theme_icon_color: 'Custom'
+                                                icon_color: app.theme_cls.primary_color                                                                                      
+                                            MDFillRoundFlatButton:
+                                                #icon: 'facebook'
+                                                icon_size: "75sp"
+                                                text: "MULTIMEDIA"
+                                                text_color: "white"
+                                                theme_icon_color: 'Custom'
+                                                icon_color: app.theme_cls.primary_color
+                                            MDFillRoundFlatButton:
+                                                #icon: 'facebook'
+                                                icon_size: "75sp"
+                                                text: "SPORTS"
+                                                text_color: "white"
+                                                theme_icon_color: 'Custom'
+                                                icon_color: app.theme_cls.primary_color                                     
+                                            MDFillRoundFlatButton:
+                                                #icon: 'facebook'
+                                                icon_size: "75sp"
+                                                text: "TRAVEL"
+                                                text_color: "white"
+                                                theme_icon_color: 'Custom'
+                                                icon_color: app.theme_cls.primary_color
+                                        
+                                            MDFillRoundFlatButton:
+                                                #icon: 'facebook'
+                                                icon_size: "75sp"
+                                                text: "BOOKS"
+                                                text_color: "white"
+                                                theme_icon_color: 'Custom'
+                                                icon_color: app.theme_cls.primary_color
+                                            MDFillRoundFlatButton:
+                                                #icon: 'facebook'
+                                                icon_size: "75sp"
+                                                text: "FOOD"
+                                                text_color: "white"
+                                                theme_icon_color: 'Custom'
+                                                icon_color: app.theme_cls.primary_color                                     
+                                            MDFillRoundFlatButton:
+                                                #icon: 'facebook'
+                                                icon_size: "75sp"
+                                                text: "FASHION"
+                                                text_color: "white"
+                                                theme_icon_color: 'Custom'
+                                                icon_color: app.theme_cls.primary_color
+
+                                            MDFillRoundFlatButton:
+                                                #icon: 'facebook'
+                                                icon_size: "75sp"
+                                                text: "GADGET"
+                                                text_color: "white"
+                                                theme_icon_color: 'Custom'
+                                                icon_color: app.theme_cls.primary_color
+                                            MDFillRoundFlatButton:
+                                                #icon: 'facebook'
+                                                icon_size: "75sp"
+                                                text: "FITNESS"
+                                                text_color: "white"
+                                                theme_icon_color: 'Custom'
+                                                icon_color: app.theme_cls.primary_color
+                            
+                        MDBoxLayout:
+                            padding: 10,0,10,10
+                            orientation: 'vertical'
+                            size_hint: 1,0.9
+                            pos_hint: {'center_x':0.5, 'center_y':.3}
+                            MDBoxLayout:
+                                size_hint_y: None
+                                height:self.minimum_height
+                                spacing:3
+                                size_hint_x: 13
+                            MDScrollView:
+                                do_scroll_x:False
+                                do_scroll_y:True    
+                                size_hint: 1,0.9
+                                MDBoxLayout:
+                                    orientation: 'horizontal'
+                                    size_hint_y: 0.3
+                                    height: 160
+                                    spacing: '50dp'
+                                    size_hint_x: 3
+                                    #pos_hint: {'center_x':0.5, 'center_y':.9}
+                                    MDIconButton:
+                                        icon_size: "125sp"
+                                        theme_icon_color: "Custom"
+                                        icon_color: "lightblue"
+                                        
+                                    MDIconButton:
+                                        icon_size: "125sp"
+                                        theme_icon_color: "Custom"
+                                        icon_color: "lightblue"
+                                        
+                                    MDIconButton:
+                                        icon_size: "125sp"
+                                        theme_icon_color: "Custom"
+                                        icon_color: "lightblue"
+
+                                        MDBoxLayout:
+                                            orientation: 'horizontal'
+                                            size_hint_y: 3.5
+                                            height: 160
+                                            spacing: '50dp'
+                                            size_hint_x: 7.5
+                                            MDIconButton:
+                                                icon_size: "125sp"
+                                                theme_icon_color: "Custom"
+                                                icon_color: "lightblue"
+                                                
+                                            MDIconButton:
+                                                icon_size: "125sp"
+                                                theme_icon_color: "Custom"
+                                                icon_color: "lightblue"
+                                                    
+                                            MDIconButton:
+                                                icon_size: "125sp"
+                                                theme_icon_color: "Custom"
+                                                icon_color: "lightblue"          
+                                                MDBoxLayout:
+                                                    orientation: 'horizontal'
+                                                    size_hint_y: 3.5
+                                                    height: 160
+                                                    spacing: '50dp'
+                                                    size_hint_x: 7.5  
+                                                    MDIconButton:
+                                                        icon_size: "125sp"
+                                                        theme_icon_color: "Custom"
+                                                        icon_color: "lightblue"
+                                                        
+                                                    MDIconButton:
+                                                        icon_size: "125sp"
+                                                        theme_icon_color: "Custom"
+                                                        icon_color: "lightblue"
+                                                            
+                                                    MDIconButton:
+                                                        icon_size: "125sp"
+                                                        theme_icon_color: "Custom"
+                                                        icon_color: "lightblue"              
+                                            
+                                            
+
+                                        
+                                            
+
+
+
+                               
+
+                    MDBottomNavigationItem:
+                        name: 'screen 5'
+                        icon: 'account'
+                        #badge_icon: "numeric-10"
+                        
+                        MDLabel:
+                            text: 'CORPUZ'
+                            halign: 'center'
+                            font_size: '55sp'
+                            theme_text_color: "Custom"
+                            text_color: app.theme_cls.primary_color
+    

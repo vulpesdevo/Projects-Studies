@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+</head>
+<body>
+    <header>
+        <h1>Quiz</h1>
+    </header>
+    
+        
+    <section id="forms-related">
+        <h3>Rules: Create the necessary html elements that best fit for the following scenario. 3pts each, observe proper naming convention</h3>
+        <ul>
+            <li>Check each cases carefully.</li>
+            <li>Using the given condition on each cases, you are to create a <strong>label and an input field</strong> that could best fit the required condition for each cases.</li>
+            <li>Wrap your selected input field in <strong>form element</strong> and it must have a <strong>submit button</strong> each cases.</li>
+            <li>A score of 3pts for correct representation of input fields, along with a working submit button and a backend action that holds user input data when checked in inspect element.</li>
+            <li>A score of 1pt for correct representation of input fields, without a working action attribute.</li>
+            <li>A score of 2pt for correct representation of input fields, a working action attribute but non standard naming of payload and/or no semantic label for fields.</li>
+            
+        </ul>
+            
+        <hr>        
+        
+        <ol>
+            <li>Delivery date filter for an application, that cannot select previous date past today's date.</li>
+            <!--ANWER HERE-->
+            <form action="submit.php" method="post">
+                <label for="date">Delivery Date</label>
+                <input type="date" name="date" id="date" min="2023-09-23">
+                <input type="submit" value="submit">
+            </form>
+            <!--END ANWER HERE-->
+            <li>An input field used to select ONE item from the Southeast Asian nations, with Philippines as initially selected record: (follow the order of nations below)</li>
+                    <ul>
+                        <li>Burma</li>
+                        <li>Brunei</li>
+                        <li>Cambodia</li>
+                        <li>Indonesia</li>
+                        <li>Laos</li>
+                        <li>Malaysia</li>
+                        <li>Philippines</li>
+                        <li>Singapore</li>
+                        <li>Thailand</li>
+                        <li>Timor-Leste</li>
+                        <li>Vietname</li>
+                    </ul>
+            <!--ANWER HERE-->
+            <form action="submit.php" method="post">
+                
+                <select id="country" name="country">
+                    <option name="country" id="burma" value="burma">Burma</option>
+                    <option name="country" id="brunei"  value="brunei">Brunei</option>
+                    <option name="cambodia" id="cambodia"  value="cambodia">Cambodia</option>
+                    <option name="country" id="indonesia"  value="indonesia">Indonesia</option>
+                    <option name="laos" id="laos"  value="laos">Laos</option>
+                    <option name="country" id="malaysia"  value="malaysia">Malaysia</option>
+                    <option name="country" id="philippines"  value="philippines" selected>Philippines</option>
+                    <option name="country" id="singapore"  value="singapore">Singapore</option>
+                    <option name="country" id="thailand"  value="thailand">Thailand</option>
+                    <option name="country" id="timor-Leste"  value="timor-Leste">Timor-Leste</option>
+                    <option name="country" id="vietnam"  value="vietnam">Vietnam</option>
+                
+                </select>
+                <input type="submit" value="submit">
+            </form>
+            <!--END ANWER HERE-->
+
+            <li>An input field for ingredients that can select one or more from the list:</li>
+                <ul>
+                    <li>Fresh Celery</li>
+                    <li>Skim Milk</li>
+                    <li>Turkey Celery</li>
+                    <li>Butter</li>
+                    <li>Carrots</li>
+                    <li>Onion</li>
+                </ul><br><br>
+            <!--ANWER HERE--> 
+            <form action="submit.php" method="post">
+                <input type="checkbox" name="ingredient" id="ingredient" value="Fresh Celery">
+                <label for="fc">Fresh Celery</label><br>
+                <input type="checkbox" name="ingredient" id="ingredient" value="Skim Milk">
+                <label for="fc">Skim Milk</label><br>
+                <input type="checkbox" name="ingredient" id="ingredient" value="Turkey Celery">
+                <label for="fc">Turkey Celery</label><br>
+                <input type="checkbox" name="ingredient" id="ingredient" value="Butter">
+                <label for="fc">Butter</label><br>
+                <input type="checkbox" name="ingredient" id="ingredient" value="Carrots">
+                <label for="fc">Carrots</label><br>
+                <input type="checkbox" name="ingredient" id="ingredient" value="Onion">
+                <label for="fc">Onion</label><br>
+                <input type="submit" value="submit">
+            </form>
+            <!--END ANWER HERE--> 
+            
+            <li>An input field to select whether a user is an administrator or not? (Boolean)</li>    
+            <!--ANWER HERE--> 
+            <form action="submit.php" method="post">
+                <label for="admin">Admin?</label><br>
+                <input type="radio" id="admin" name="admin" value="admin">
+                <label for="yes">Yes</label>
+           
+                <input type="radio" id="admin" name="admin" value="non-admin">
+                <label for="no">No</label>
+                <br>
+                <input type="submit" value="submit">
+            <!--END ANWER HERE-->  
+
+        </form>
+            <li>An input field to upload one or more audio related files(like mp3, wav, ogg, m4a)</li>
+            <!--ANWER HERE--> 
+            <form action="submit.php" method="post"> 
+            <input type="file" id="audio" name="audio" accept=".mp3, .wav, .ogg, .m4a" multiple> <br><br>
+            <input type="submit" value="submit">
+        </form>  
+            <!--END ANWER HERE-->    
+                
+
+        </ol>
+    </section>
+
+    <section id="table-related">
+        
+        <h3>Rules:Create the table as depicted in the image below. Use correct semantic elements. 15pts</h3>
+        <ul>
+            <li>Create an html table based on the provided image below</li>
+            <li>Observe the number of columns and rows in the table</li>
+            <li>Use appropriate semantic tags for table header and body</li>
+            <li>A score of 15pts for correct visual output of table as the image below(css coloring has no factor)</li>
+            <li>A deduction of 2 points each wrong merging of rows/columns. Maximum deduction of 10points </li>
+        </ul>
+
+        <hr>
+        
+        <img src="./excel.png" alt="table-of-schedules" width="300" >
+        
+        <p>Use the base code below for basic styling. You may use css if you know it</p>
+        <table style="border-collapse: collapse;">
+            <tr style="border: 1px solid black;">
+                <td style="border: 1px solid black;">data</td>
+                <td style="border: 1px solid black;">data</td>
+            </tr>
+        </table>
+        <!--ANWER HERE--> 
+        <table style=" border-collapse: collapse; width: 100%">
+            <thead>
+                <tr>
+                    <td style="background-color:gray" rowspan="2">Time</td>
+                    <td style="background-color:gray" colspan="6">Day of the Week</td>
+                </tr>
+                <tr>
+                    <td style="background-color:gray">Monday</td>
+                    <td style="background-color:gray">Tuesday</td>
+                    <td style="background-color:gray">Wednesday</td>
+                    <td style="background-color:gray">Thursday</td>
+                    <td style="background-color:gray">Friday</td>
+                    <td style="background-color:gray">Saturday</td>
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">7:00-7:30</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td style="background-color:aquamarine; text-align:center" rowspan="9">Project<br>MGMT</td>
+                    <td></td>
+                    <td style="background-color:cadetblue" rowspan="6">RDBMS</tds>
+                </tr>
+                <tr>
+                    <td style="text-align:end">7:30-8:00</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td style="text-align:end">8:00-8:30</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">8:30-9:00</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">9:00-9:30</td>
+                    <td></td>
+                    <td></td>
+                    <td style="background-color:darkcyan" rowspan="5">NETWORK <br>MGMT</td>
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">9:30-10:00</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">10:00-10:30</td>
+                    <td></td>
+                    <td style="background-color:darkcyan" rowspan="3">NETWORK <br>MGMT</td>
+                    <td></td>
+                    <td style="background-color:coral" rowspan="5">EVENT <br>DRIVEN</td>
+                    
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">10:30-11:00</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td style="text-align:end">11:30-12:00</td>
+                    <td></td>
+                    <td></td>
+                    
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">12:00-12:30</td>
+                    <td style="background-color:cadetblue" rowspan="4">RDBMS</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">12:30-13:00</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">13:00-13:30</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td style="background-color:rgb(97, 140, 233)" rowspan="5">WEBDEV</td>
+                </tr>
+                <tr>
+                    <td style="text-align:end">13:30-14:00</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">14:00-14:30</td>
+                    <td style="background-color:coral" rowspan="4">EVENT<br>DRIVEN</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">14:30-15:00</td>
+                    
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">15:00-15:30</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">15:30-16:00</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">16:00-16:30</td>
+                    <td style="background-color:rgb(97, 140, 233)" rowspan="4">WEBDEV</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td style="text-align:end">16:30-17:00</td>
+                    
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td style="text-align:end">17:00-17:30</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">17:30-18:00</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    <td style="text-align:end">18:00-18:30</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td style="text-align:end">18:30-19:00</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </thead>
+            <tbody>
+    
+            </tbody>
+        </table>       
+        <!--END ANWER HERE-->
+    </section>
+    <style>
+        td{ 
+            border: 1px solid #ccc;
+            text-align:center;
+        }
+    </style>
+</body>
+</html>

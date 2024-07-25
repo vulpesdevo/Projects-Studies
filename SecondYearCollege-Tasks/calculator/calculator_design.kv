@@ -1,0 +1,140 @@
+<Button>
+    size_hint : (.2, .2)
+    font_size : 32
+<calculator>
+    BoxLayout:
+        orientation : 'vertical'
+        size : root.width , root.height
+        spacing : 10
+        TextInput:
+            id: input
+            text : "0"
+            halign : 'right'
+            valign : 'middle'
+            font_size : 60
+            size_hint : (1, .15)          
+        GridLayout:
+            padding : 10
+            spacing : 10
+            cols : 4
+            rows : 5
+            Symbols:
+                text : "%"
+                on_press: root.symbols("%")
+            Symbols:
+                text : "<<"
+
+            Symbols:
+                text : "C"
+                id: clear
+                on_press: root.clear()
+
+            Symbols:
+                
+                text : "/"
+                on_press : root.symbols("/")
+
+            Num:
+                text : "7"
+                #background_color : (157/255,157/255,157/255,1)
+                on_press : root.nums(7)
+
+            Num:
+                text : "8"
+                #background_color : (157/255,157/255,157/255,1)
+                on_press : root.nums(8)
+            Num:
+                text : "9"
+                #background_color : (157/255,157/255,157/255,1)
+                on_press : root.nums(9)
+
+            Symbols:
+                text : "x"
+                on_press : root.symbols("*")
+
+            Num:
+                text : "4"
+                #background_color : (157/255,157/255,157/255,1)
+                on_press : root.nums(4)
+
+            Num:
+                text : "5"
+                #background_color : (157/255,157/255,157/255,1)
+                on_press : root.nums(5)
+
+            Num:
+                text : "6"
+                #background_color : (157/255,157/255,157/255,1)
+                on_press : root.nums(6)
+
+            Symbols:
+                text : "-"
+                on_press : root.symbols("-")
+
+
+            Num:
+                text : "1"
+                #background_color : (157/255,157/255,157/255,1)
+                on_press : root.nums(1)
+
+            Num:
+                text : "2"
+                #background_color : (157/255,157/255,157/255,0)
+                on_press : root.nums(2)
+
+            Num:
+                text : "3"
+                #background_color : (157/255,157/255,157/255,1)
+                on_press : root.nums(3)
+
+            Symbols:
+                text : "+"
+                on_press : root.symbols("+")
+
+            Symbols:
+                text : "+/-"
+                #background_color : (157/255,157/255,157/255,1)
+
+            Num:
+                text : "0"
+                #background_color : (157/255,157/255,157/255,1)
+                on_press : root.nums(0)
+
+            Symbols:
+                text : "."
+                #background_color : (157/255,157/255,157/255,1)
+                
+            Equal:
+                text : "="
+                on_press : root.equal()
+
+<Num@Button>
+    background_color: (0,0,0,0)
+    background_normal: ''
+    canvas.before:
+        Color:
+            rgba : (57/255,62/255,70/255,1)
+        RoundedRectangle:
+            size : self.size
+            pos : self.pos
+            radius : [350,]
+<Symbols@Button>
+    background_color: (0,0,0,0)
+    background_normal: ''
+    canvas.before:
+        Color:
+            rgba : (34 / 255, 40 / 255, 49 / 255, 1)
+        RoundedRectangle:
+            size : self.size
+            pos : self.pos
+            radius : [350,]
+<Equal@Button>
+    background_color: (0,0,0,0)
+    background_normal: ''
+    canvas.before:
+        Color:
+            rgba : (181/255, 84/255, 0/255,1)
+        RoundedRectangle:
+            size : self.size
+            pos : self.pos
+            radius : [350,]

@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<!-- Styles -->
+		<link rel="stylesheet" href="./css/style.css" />
+
+		<!-- source of fonts -->
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+		/>
+
+		<!-- Icon source -->
+		<link
+			href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+			rel="stylesheet"
+		/>
+		<title>Portfolio-Galan</title>
+	</head>
+	<body>
+		<!-- The header section containing the navigation bar for the webpage -->
+		<header>
+			<!-- Navigation bar element with a class "nav-header" -->
+			<nav class="nav-header">
+				<!-- Hamburger menu icon for navigation on small width-->
+				<div class="bx bx-menu" id="checkbtn"></div>
+				<!-- Navigation links list -->
+				<div class="nav-list">
+					<!-- Home link, set as the active page -->
+					<a class="active" href="#hero">Home</a>
+					<!-- About link, leading to the About section -->
+					<a href="#about">About</a>
+					<!-- Skills link, leading to the Skills section -->
+					<a href="#skills">Skills</a>
+					<!-- Education link, leading to the Education section -->
+					<a href="#education">Education</a>
+					<!-- Projects link, leading to the Projects section -->
+					<a href="#projects">Projects</a>
+					<!-- "Let's Connect" leading to the Contact section -->
+					<a href="#contact" style="font-weight: 600"
+						>Let's Connect</a
+					>
+				</div>
+			</nav>
+		</header>
+		<!-- MAIN -->
+		<main>
+			<!-- Hero section, for the introduction or landing area of webpage -->
+			<section class="hero" id="hero">
+				<!-- Main content of the hero section, including text and CTA -->
+				<div class="banner">
+					<h2>Hi, It's me</h2>
+					<h1>Mark Francis</h1>
+					<h3>I'm a <span class="multiple-text"></span></h3>
+					<p>
+						Passionate about creating user-friendly websites through
+						innovative front-end and back-end skills.
+					</p>
+					<br /><br />
+					<!-- Button box for call-to-action, downloading a CV -->
+					<div class="btn-box">
+						<a href="#">Download CV</a>
+					</div>
+					<!-- Spinning animation container -->
+					<div class="spinning-span-container">
+						<span class="outer-spin"></span>
+						<span class="inner-spin"></span>
+					</div>
+				</div>
+				<!-- My Image -->
+				<div class="my-img">
+					<img src="./Images/myPhoto.png" alt="" />
+				</div>
+				<!-- Additional decorative element -->
+				<div>
+					<span class="spin2"></span>
+				</div>
+			</section>
+
+			<!-- About Me section, used to provide information about the person or entity -->
+			<section class="about-me" id="about">
+				<!-- Image and decorative elements associated with the about me content -->
+				<div class="about-img">
+					<img src="./Images/myPhoto.png" alt="" />
+					<span class="spin"></span>
+					<span class="spin2"></span>
+				</div>
+
+				<!-- Main content of the About Me section, including text and headings -->
+				<div class="about-content">
+					<h2 class="heading">About <span>Me</span></h2>
+					<h3>Future Web Developer</h3>
+					<p>
+						I'm a passionate web developer, dedicated to creating
+						innovative and user-friendly websites. With a strong
+						foundation in front-end and back-end development, I
+						enjoy turning ideas into functional, visually appealing
+						websites that provide a seamless user experience.
+					</p>
+				</div>
+			</section>
+
+			<!-- Skills section, used to showcase  my or the individual's skills and proficiency -->
+			<section class="skills" id="skills">
+				<!-- Heading for the skills section -->
+				<div class="heading2">
+					<h2 class="my-skills">My <span>Skills</span></h2>
+				</div>
+				<p>
+					I possess a diverse range of skills and expertise that make
+					me a valuable asset. Here's a glimpse of my key
+					competencies.
+				</p>
+				<!-- Spinning animation container -->
+				<div class="spinning-span-container">
+					<span class="outer-spin"></span>
+					<span class="inner-spin"></span>
+				</div>
+				<!-- Container for displaying individual skills and details -->
+				<div class="skills-container">
+					<!-- Box for Web Development skills -->
+					<div class="skills-box">
+						<i class="bx bx-code-alt"></i>
+						<h3>Web Development</h3>
+						<div class="the-skills">
+							<!-- List of Web Development skills -->
+							<ul class="field">
+								<li>HTML</li>
+								<li>CSS</li>
+								<li>JavaScript</li>
+							</ul>
+							<!-- Progress bars for skill proficiency -->
+							<ul class="percent">
+								<li class="html"><span></span></li>
+								<li class="css"><span></span></li>
+								<li class="js"><span></span></li>
+							</ul>
+						</div>
+					</div>
+					<!-- Box for Mobile Development skills -->
+					<div class="skills-box">
+						<i class="bx bx-devices"></i>
+						<h3>Mobile Development</h3>
+						<div class="the-skills">
+							<!-- List of Mobile Development skills -->
+							<ul class="field">
+								<li>Kivy</li>
+								<li>KivyMd</li>
+								<li>Python</li>
+							</ul>
+							<!-- Progress bars for skill proficiency -->
+							<ul class="percent">
+								<li class="kivy"><span></span></li>
+								<li class="kvmd"><span></span></li>
+								<li class="python"><span></span></li>
+							</ul>
+						</div>
+					</div>
+					<!-- Box for Other skills -->
+					<div class="skills-box">
+						<i class="bx bx-shape-square"></i>
+						<h3>Other</h3>
+						<div class="the-skills">
+							<!-- List of Other skills -->
+							<ul class="field">
+								<li>Java</li>
+								<li>C#</li>
+								<li>C++</li>
+							</ul>
+							<!-- Progress bars for skill proficiency -->
+							<ul class="percent">
+								<li class="java"><span></span></li>
+								<li class="cs"><span></span></li>
+								<li class="cpp"><span></span></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Education section, where the educational journey and certifications are showcased -->
+			<section class="education" id="education">
+				<!-- Header for the education section -->
+				<div class="education-header">
+					<h2>My <span>Journey</span></h2>
+				</div>
+				<!-- Container for educational content, divided into columns for Education and Certification -->
+				<div class="edu-row">
+					<!-- Column for Education -->
+					<div class="edu-col">
+						<h3 class="title">EDUCATION</h3>
+						<div class="edu-box">
+							<!-- Educational details for Junior High School -->
+							<div class="edu-content">
+								<div class="content">
+									<div class="year">
+										<i class="bx bx-calendar"></i> 2015-2018
+									</div>
+									<h3>
+										Junior High - Bacoor National High
+										School Salinas Annex
+									</h3>
+									<p>
+										Successfully completed my Junior High
+										School education with dedication and
+										hard work, earning my well-deserved
+										diploma and academic achievements.
+									</p>
+								</div>
+							</div>
+							<!-- Educational details for Senior High School -->
+							<div class="edu-content">
+								<div class="content">
+									<div class="year">
+										<i class="bx bx-calendar"></i> 2018-2020
+									</div>
+									<h3>
+										Senior High - AMA Computer Learning
+										Center
+									</h3>
+									<p>
+										Successfully completed my journey as ABM
+										student with High Honor at ACLC Bacoor
+										Campus, earning my well-deserved
+										accolades and recognition for academic
+										excellence.
+									</p>
+								</div>
+							</div>
+							<!-- Educational details for Higher Education -->
+							<div class="edu-content">
+								<div class="content">
+									<div class="year">
+										<i class="bx bx-calendar"></i> 2020-2023
+									</div>
+									<h3>
+										Higher Education - St. Dominic College
+										of Asia
+									</h3>
+									<p>
+										Presently enrolled in the Bachelor of
+										Science in Information Technology
+										program, diligently pursuing my
+										educational and career aspirations in
+										the dynamic field of IT.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- Column for Certification -->
+					<div class="edu-col">
+						<h3 class="title">CERTIFICATION</h3>
+						<div class="edu-box">
+							<!-- Certification details for Hack4Gov Hackathon -->
+							<div class="edu-content">
+								<div class="content">
+									<div class="year">
+										<i class="bx bx-calendar"></i> 2023
+									</div>
+									<h3>Hack4Gov - Hackathon</h3>
+									<p>
+										Building Cyber Champions: Stronger
+										Nation through Cyber Awareness and
+										Action. - Department of Information and
+										Communication Technology and CERT-PH
+									</p>
+								</div>
+							</div>
+							<!-- Certification details for Readiness to the IT Professional World Seminar -->
+							<div class="edu-content">
+								<div class="content">
+									<div class="year">
+										<i class="bx bx-calendar"></i> 2023
+									</div>
+									<h3>
+										Readiness to the IT Professional World
+									</h3>
+									<p>
+										E-Certificate of Attendance for the
+										Domini Xode "Readiness to the IT
+										Professional World Seminar.
+									</p>
+								</div>
+							</div>
+							<!-- Certification details for Data Privacy Orientation webinar -->
+							<div class="edu-content">
+								<div class="content">
+									<div class="year">
+										<i class="bx bx-calendar"></i> 2022
+									</div>
+									<h3>Data Privacy Orientation</h3>
+									<p>
+										E-Certificate of Attendance for the SDCA
+										Data Protection Office's Data Privacy
+										Orientation webinar.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Projects section, used to showcase a collection of projects I did -->
+			<section class="projects" id="projects">
+				<!-- Title for the projects section -->
+				<h2 class="line-title">My <span>Projects</span></h2>
+				<!-- Container for the project items-->
+				<div class="vibely-modal">
+					<h3>VIBELY</h3>
+					<div class="body-modal">
+						A multifaceted lifestyle and entertainment application
+						that caters to users' diverse interests and preferences,
+						providing a wide range of engaging content, social
+						connectivity, and personalized experiences for a
+						well-rounded digital lifestyle.<br /><br />
+						Beyond content consumption, the app fosters social
+						connectivity. Users can engage with like-minded
+						individuals, join interest-based groups, and participate
+						in lively discussions. Whether you're passionate about
+						eco-conscious living, vintage fashion, or pet care,
+						there's a community waiting to welcome you. Share your
+						experiences, seek advice, and build meaningful
+						connections. From virtual book clubs to live cooking
+						sessions, this app transforms solitary moments into
+						shared experiences.<br /><br />
+						What truly sets this lifestyle app apart is its
+						commitment to personalization. It learns from your
+						interactions, tailoring recommendations based on your
+						preferences. Whether you're planning a weekend getaway,
+						searching for a new workout routine, or curating a
+						playlist for your morning jog, the app seamlessly
+						integrates with your lifestyle. It's not just an app;
+						it's your digital companion—a curator, a confidante, and
+						a catalyst for a well-rounded, fulfilling life.
+					</div>
+					<div class="icon-btn" id="vibely-close">
+						<i class="bx bx-x"></i>
+					</div>
+				</div>
+				<div class="bs-modal">
+					<h3>BACKSAFE</h3>
+					<div class="body-modal">
+						In the Philippines, there's a unique commuter-centric
+						service that's revolutionizing the daily commuting
+						experience. This specialized service is designed to
+						cater to the needs of commuters, with a strong focus on
+						safety and convenience. It's not just about getting from
+						point A to point B; it's about ensuring the well-being
+						of passengers throughout their journey. This innovative
+						approach is changing the way people think about their
+						daily commutes.
+						<br /><br />
+						Safety is a top priority for this service, with a range
+						of features and protocols in place to protect
+						passengers. From well-maintained vehicles to trained
+						drivers and stringent safety checks, commuters can rest
+						assured that their well-being is in good hands.
+						Additionally, convenience is at the forefront of this
+						service, with features like real-time tracking, easy
+						booking options, and comfortable, clean vehicles, making
+						the daily grind a little less stressful.
+						<br /><br />
+						For commuters in the Philippines, this specialized
+						service has become a game-changer, providing them with a
+						safer, more convenient, and enjoyable way to navigate
+						their daily journeys. It's a testament to the commitment
+						to passenger well-being, offering a new and improved
+						standard for commuting in the country.
+					</div>
+					<div class="icon-btn" id="bs-close">
+						<i class="bx bx-x"></i>
+					</div>
+				</div>
+				<div class="idris-modal">
+					<h3>IDRIS</h3>
+					<div class="body-modal">
+						Experience a transformative software solution that
+						empowers businesses to take control of their operations.
+						This comprehensive tool is designed to simplify
+						inventory management, enhance sales processes, and
+						streamline overall operations. It's a game-changer for
+						businesses looking to optimize their workflow and
+						maximize efficiency.
+						<br /><br />
+						With this software, tracking inventory becomes a breeze,
+						giving businesses the real-time insights they need to
+						make informed decisions. Sales processes are optimized,
+						resulting in increased revenue and customer
+						satisfaction. Operations are streamlined, reducing
+						overhead costs and boosting productivity. This
+						all-in-one solution is a must-have for any business
+						seeking to stay competitive in today's fast-paced
+						market.
+						<br /><br />
+						For businesses, this software is the key to unlocking
+						their full potential, offering a seamless way to manage
+						inventory, supercharge sales, and operate more
+						efficiently than ever before. It's a powerful tool that
+						transforms the way businesses operate, helping them stay
+						ahead of the competition and thrive in today's business
+						landscape.
+					</div>
+					<div class="icon-btn" id="idris-close">
+						<i class="bx bx-x"></i>
+					</div>
+				</div>
+
+				<!-- container of carousel -->
+				<div class="project-container owl-carousel custom-carousel">
+					<!-- Individual project item -->
+					<div
+						class="item"
+						style="background-image: url(./Images/vibely.png)"
+					>
+						<div class="project-box">
+							<h3>VIBELY</h3>
+							<p>
+								A multifaceted lifestyle and entertainment
+								application that caters to users' diverse
+								interests and preferences, providing a wide
+								range of engaging content, social connectivity,
+								and personalized experiences for a well-rounded
+								digital lifestyle.
+							</p>
+							<!-- Button for external project link -->
+							<div class="icon-btn" id="vibely-btn">
+								<i class="bx bx-link-external"></i>
+							</div>
+						</div>
+					</div>
+					<!-- Additional project items with similar structure -->
+					<div
+						class="item"
+						style="background-image: url(./Images/BACKSAFE.png)"
+					>
+						<div class="project-box">
+							<h3>BACKSAFE</h3>
+							<p>
+								A specialized service tailored for commuters in
+								the Philippines, offering essential safety and
+								convenience features to enhance the daily
+								commuting experience and ensure the well-being
+								of passengers.
+							</p>
+							<div class="icon-btn" id="bs-btn">
+								<i class="bx bx-link-external"></i>
+							</div>
+						</div>
+					</div>
+					<!-- Additional project items with similar structure -->
+					<div
+						class="item"
+						style="
+							background-image: url(./Images/Businesscenter.png);
+						"
+					>
+						<div class="project-box">
+							<h3>IDRIS</h3>
+							<p>
+								A comprehensive software solution that enables
+								businesses to efficiently track their inventory,
+								optimize sales processes, and streamline their
+								operations.
+							</p>
+							<div class="icon-btn" id="idris-btn">
+								<i class="bx bx-link-external"></i>
+							</div>
+						</div>
+					</div>
+					<!-- Additional project items with similar structure -->
+				</div>
+			</section>
+
+			<!-- Contact section, used to provide contact information and links for connecting -->
+			<section class="contact" id="contact">
+				<!-- Heading for the contact section -->
+				<div class="contact-header">
+					<h2>LET'S <span>CONNECT</span>!</h2>
+				</div>
+				<!-- Contact form for sending messages -->
+
+				<form action="#">
+					<div class="input-box">
+						<input type="text" placeholder="Full Name" />
+						<input type="email" placeholder="Email Address" />
+					</div>
+					<div class="input-box">
+						<input type="text" placeholder="Mobile Number" />
+						<input type="email" placeholder="Email Subject" />
+					</div>
+					<textarea
+						name=""
+						id=""
+						cols="30"
+						rows="10"
+						placeholder="Your Message"
+					></textarea>
+					<input
+						type="submit"
+						value="Send Message"
+						class="contact-btn"
+					/>
+				</form>
+
+				<!-- Links to social media profiles for connecting -->
+				<div class="soc-med">
+					<a href="https://www.facebook.com/MakKie.F" target="_blank"
+						><i class="bx bxl-facebook-circle"></i
+					></a>
+					<a
+						href="https://www.instagram.com/markieeesss"
+						target="_blank"
+						><i class="bx bxl-instagram"></i
+					></a>
+					<a href="https://www.tiktok.com/@makkie.01" target="_blank"
+						><i class="fa-brands fa-tiktok"></i
+					></a>
+					<a href="https://github.com/VulpesDevo" target="_blank"
+						><i class="bx bxl-github"></i
+					></a>
+					<a
+						href="https://www.linkedin.com/in/mark-francis-galan-3bb21228b/"
+						target="_blank"
+						><i class="bx bxl-linkedin-square"></i
+					></a>
+				</div>
+			</section>
+		</main>
+
+		<!-- Footer section, used for my location, other contact information and copyright details -->
+		<footer>
+			<div class="footer-container">
+				<p>
+					<a
+						href="https://maps.app.goo.gl/4xBcmmWku2ZcQkiB8"
+						target="_blank"
+						>Cavite, Philippines</a
+					>
+				</p>
+				<p>
+					<a href="mailto:info@test.com" target="_blank"
+						>info@test.com</a
+					>
+				</p>
+				<p>
+					<a href="tel:+63 987 111 1234" target="_blank"
+						>+63 987 111 1234</a
+					>
+				</p>
+				<p>&copy;2023 Copyright; SDCA</p>
+			</div>
+		</footer>
+		<!-- JavaScript library for text animation -->
+		<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+		<!-- Custom JavaScript file for website functionality -->
+		<script src="./js/script.js"></script>
+	</body>
+</html>

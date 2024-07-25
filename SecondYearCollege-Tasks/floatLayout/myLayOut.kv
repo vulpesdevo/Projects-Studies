@@ -1,0 +1,42 @@
+
+<Button>        
+    font_size : 32
+    background_color :(0,0,1,1)
+    size_hint : (0.3,0.3)
+    background_color: (0,0,0,0)
+    background_normal: ''
+    canvas.before:
+        Color:
+            rgba :  (26/255, 77/255, 46/255,0.7)
+        RoundedRectangle:
+            size : self.size
+            pos : self.pos
+            radius : [200,]
+    
+
+<myFloat>
+    canvas.before:
+        Rectangle:
+            source: 'BGimage\meme.png'
+            size: root.width, root.height
+            pos: self.pos
+    FloatLayout:
+
+        size : root.width, root.height
+        
+        Button:
+            text : "Top left"
+            pos_hint : {"x":0, "top":1}
+        Button:
+            text : "Top right"
+            pos_hint : {"x":0.7, "top":1}
+        Button:
+            text : "Center"
+            pos_hint : {"center_x":0.5, "center_y":0.5}
+        Button:
+            text : "Bottom left"
+            pos_hint : {"x":0, "bottom":1}
+        Button:
+            text : "Bottom right"
+            pos_hint : {"x":0.7, "bottom":1}
+        

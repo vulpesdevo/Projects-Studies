@@ -1,0 +1,1440 @@
+('C:\\Users\\Mark '
+ 'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One Directory',
+ None,
+ [],
+ 'DATA',
+ [('bg.jpg',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\bg.jpg',
+   'DATA'),
+  ('login.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\login.py',
+   'DATA'),
+  ('Login.spec',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Login.spec',
+   'DATA'),
+  ('loginDESIGN.kv',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\loginDESIGN.kv',
+   'DATA'),
+  ('vulpes.jpg',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\vulpes.jpg',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-console-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-datetime-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-debug-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-file-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-file-l1-2-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-file-l2-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-handle-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-heap-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-localization-l1-2-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-memory-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-profile-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-string-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-synch-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-synch-l1-2-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-timezone-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-core-util-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-crt-conio-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-crt-convert-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-crt-environment-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-crt-heap-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-crt-locale-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-crt-math-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-crt-process-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-crt-string-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-crt-time-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\api-ms-win-crt-utility-l1-1-0.dll',
+   'DATA'),
+  ('dist\\Login\\base_library.zip',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\base_library.zip',
+   'DATA'),
+  ('dist\\Login\\glew32.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\glew32.dll',
+   'DATA'),
+  ('dist\\Login\\libcrypto-1_1.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\libcrypto-1_1.dll',
+   'DATA'),
+  ('dist\\Login\\libffi-8.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\libffi-8.dll',
+   'DATA'),
+  ('dist\\Login\\libssl-1_1.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\libssl-1_1.dll',
+   'DATA'),
+  ('dist\\Login\\Login.exe',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\Login.exe',
+   'DATA'),
+  ('dist\\Login\\mfc140u.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\mfc140u.dll',
+   'DATA'),
+  ('dist\\Login\\pyexpat.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\pyexpat.pyd',
+   'DATA'),
+  ('dist\\Login\\python311.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\python311.dll',
+   'DATA'),
+  ('dist\\Login\\SDL2.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\SDL2.dll',
+   'DATA'),
+  ('dist\\Login\\SDL2_image.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\SDL2_image.dll',
+   'DATA'),
+  ('dist\\Login\\SDL2_mixer.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\SDL2_mixer.dll',
+   'DATA'),
+  ('dist\\Login\\SDL2_ttf.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\SDL2_ttf.dll',
+   'DATA'),
+  ('dist\\Login\\select.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\select.pyd',
+   'DATA'),
+  ('dist\\Login\\ucrtbase.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\ucrtbase.dll',
+   'DATA'),
+  ('dist\\Login\\unicodedata.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\unicodedata.pyd',
+   'DATA'),
+  ('dist\\Login\\VCRUNTIME140.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\VCRUNTIME140.dll',
+   'DATA'),
+  ('dist\\Login\\win32api.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\win32api.pyd',
+   'DATA'),
+  ('dist\\Login\\win32file.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\win32file.pyd',
+   'DATA'),
+  ('dist\\Login\\win32gui.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\win32gui.pyd',
+   'DATA'),
+  ('dist\\Login\\win32trace.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\win32trace.pyd',
+   'DATA'),
+  ('dist\\Login\\win32ui.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\win32ui.pyd',
+   'DATA'),
+  ('dist\\Login\\_asyncio.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\_asyncio.pyd',
+   'DATA'),
+  ('dist\\Login\\_bz2.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\_bz2.pyd',
+   'DATA'),
+  ('dist\\Login\\_ctypes.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\_ctypes.pyd',
+   'DATA'),
+  ('dist\\Login\\_decimal.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\_decimal.pyd',
+   'DATA'),
+  ('dist\\Login\\_elementtree.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\_elementtree.pyd',
+   'DATA'),
+  ('dist\\Login\\_hashlib.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\_hashlib.pyd',
+   'DATA'),
+  ('dist\\Login\\_lzma.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\_lzma.pyd',
+   'DATA'),
+  ('dist\\Login\\_multiprocessing.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\_multiprocessing.pyd',
+   'DATA'),
+  ('dist\\Login\\_overlapped.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\_overlapped.pyd',
+   'DATA'),
+  ('dist\\Login\\_queue.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\_queue.pyd',
+   'DATA'),
+  ('dist\\Login\\_socket.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\_socket.pyd',
+   'DATA'),
+  ('dist\\Login\\_ssl.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\_ssl.pyd',
+   'DATA'),
+  ('dist\\Login\\_win32sysloader.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\_win32sysloader.pyd',
+   'DATA'),
+  ('dist\\Login\\win32com\\shell\\shell.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\win32com\\shell\\shell.pyd',
+   'DATA'),
+  ('dist\\Login\\pywin32_system32\\pythoncom311.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\pywin32_system32\\pythoncom311.dll',
+   'DATA'),
+  ('dist\\Login\\pywin32_system32\\pywintypes311.dll',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\pywin32_system32\\pywintypes311.dll',
+   'DATA'),
+  ('dist\\Login\\PIL\\_imaging.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\PIL\\_imaging.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\PIL\\_imagingcms.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\PIL\\_imagingcms.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\PIL\\_imagingft.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\PIL\\_imagingft.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\PIL\\_imagingtk.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\PIL\\_imagingtk.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\PIL\\_webp.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\PIL\\_webp.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\console.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\console.py',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\cursor.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\cursor.py',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\inspector.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\inspector.py',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\joycursor.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\joycursor.py',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\keybinding.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\keybinding.py',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\monitor.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\monitor.py',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\recorder.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\recorder.py',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\screen.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\screen.py',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\showborder.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\showborder.py',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\touchring.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\touchring.py',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\webdebugger.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\webdebugger.py',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\_webdebugger.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\_webdebugger.py',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\__init__.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\__init__.py',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\__pycache__\\console.cpython-311.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\__pycache__\\console.cpython-311.pyc',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\__pycache__\\cursor.cpython-311.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\__pycache__\\cursor.cpython-311.pyc',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\__pycache__\\inspector.cpython-311.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\__pycache__\\inspector.cpython-311.pyc',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\__pycache__\\joycursor.cpython-311.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\__pycache__\\joycursor.cpython-311.pyc',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\__pycache__\\keybinding.cpython-311.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\__pycache__\\keybinding.cpython-311.pyc',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\__pycache__\\monitor.cpython-311.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\__pycache__\\monitor.cpython-311.pyc',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\__pycache__\\recorder.cpython-311.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\__pycache__\\recorder.cpython-311.pyc',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\__pycache__\\screen.cpython-311.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\__pycache__\\screen.cpython-311.pyc',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\__pycache__\\showborder.cpython-311.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\__pycache__\\showborder.cpython-311.pyc',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\__pycache__\\touchring.cpython-311.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\__pycache__\\touchring.cpython-311.pyc',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-311.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-311.pyc',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-311.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-311.pyc',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\modules\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\modules\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\settings_kivy.json',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\settings_kivy.json',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\style.kv',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\style.kv',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\keyboards\\azerty.json',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\keyboards\\azerty.json',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\keyboards\\de.json',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\keyboards\\de.json',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\keyboards\\de_CH.json',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\keyboards\\de_CH.json',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\keyboards\\en_US.json',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\keyboards\\en_US.json',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\keyboards\\qwerty.json',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\keyboards\\qwerty.json',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\keyboards\\qwertz.json',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\keyboards\\qwertz.json',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\images\\background.jpg',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\images\\background.jpg',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\images\\cursor.png',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\images\\cursor.png',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\images\\defaultshape.png',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\images\\defaultshape.png',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\images\\image-loading.gif',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\images\\image-loading.gif',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\images\\image-loading.zip',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\images\\image-loading.zip',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\images\\testpattern.png',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\images\\testpattern.png',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\glsl\\default.fs',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\glsl\\default.fs',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\glsl\\default.png',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\glsl\\default.png',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\glsl\\default.vs',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\glsl\\default.vs',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\glsl\\header.fs',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\glsl\\header.fs',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\glsl\\header.vs',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\glsl\\header.vs',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('dist\\Login\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'DATA'),
+  ('dist\\Login\\kivy\\properties.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\properties.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\weakproxy.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\weakproxy.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\_clock.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\_clock.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\_event.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\_event.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\_metrics.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\_metrics.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\lib\\gstplayer\\_gstplayer.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\lib\\gstplayer\\_gstplayer.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\boxshadow.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\boxshadow.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\buffer.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\buffer.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\cgl.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\cgl.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\compiler.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\compiler.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\context.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\context.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\context_instructions.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\context_instructions.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\fbo.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\fbo.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\gl_instructions.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\gl_instructions.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\instructions.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\instructions.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\opengl.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\opengl.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\opengl_utils.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\opengl_utils.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\scissor_instructions.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\scissor_instructions.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\shader.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\shader.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\stencil_instructions.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\stencil_instructions.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\svg.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\svg.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\tesselator.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\tesselator.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\texture.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\texture.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\transformation.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\transformation.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\vbo.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\vbo.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\vertex.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\vertex.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\vertex_instructions.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\vertex_instructions.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\cgl_backend\\cgl_debug.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\cgl_backend\\cgl_debug.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\cgl_backend\\cgl_gl.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\cgl_backend\\cgl_gl.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\cgl_backend\\cgl_glew.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\cgl_backend\\cgl_glew.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\cgl_backend\\cgl_mock.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\cgl_backend\\cgl_mock.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\core\\window\\window_info.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\core\\window\\window_info.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\core\\window\\_window_sdl2.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\core\\window\\_window_sdl2.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\core\\text\\text_layout.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\core\\text\\text_layout.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\core\\text\\_text_sdl2.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\core\\text\\_text_sdl2.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\core\\image\\_img_sdl2.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\core\\image\\_img_sdl2.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\core\\clipboard\\_clipboard_sdl2.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\core\\clipboard\\_clipboard_sdl2.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\kivy\\core\\audio\\audio_sdl2.cp311-win_amd64.pyd',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\kivy\\core\\audio\\audio_sdl2.cp311-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\pep_html\\pep.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\pep_html\\template.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\odf_odt\\styles.odt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\latex2e\\default.tex',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\latex2e\\docutils.sty',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\latex2e\\docutils.sty',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\latex2e\\titlepage.tex',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\latex2e\\titlingpage.tex',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\latex2e\\titlingpage.tex',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\latex2e\\xelatex.tex',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\html5_polyglot\\math.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\html5_polyglot\\plain.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\html5_polyglot\\responsive.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\html5_polyglot\\responsive.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\html5_polyglot\\template.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\html5_polyglot\\tuftig.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\html5_polyglot\\tuftig.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\html4css1\\html4css1.css',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('dist\\Login\\docutils\\writers\\html4css1\\template.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\README.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('dist\\Login\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('dist\\Login\\certifi\\cacert.pem',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\certifi\\cacert.pem',
+   'DATA'),
+  ('dist\\Login\\certifi\\py.typed',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\dist\\Login\\certifi\\py.typed',
+   'DATA'),
+  ('build\\Login\\Analysis-00.toc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\Analysis-00.toc',
+   'DATA'),
+  ('build\\Login\\base_library.zip',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\base_library.zip',
+   'DATA'),
+  ('build\\Login\\COLLECT-00.toc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\COLLECT-00.toc',
+   'DATA'),
+  ('build\\Login\\EXE-00.toc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\EXE-00.toc',
+   'DATA'),
+  ('build\\Login\\generated-4941b295702ad5a812ee2980d04badf436535c369082a2f492790dee4a3a062b.ico',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\generated-4941b295702ad5a812ee2980d04badf436535c369082a2f492790dee4a3a062b.ico',
+   'DATA'),
+  ('build\\Login\\graph-Login.dot',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\graph-Login.dot',
+   'DATA'),
+  ('build\\Login\\Login.exe',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\Login.exe',
+   'DATA'),
+  ('build\\Login\\Login.exe.manifest',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\Login.exe.manifest',
+   'DATA'),
+  ('build\\Login\\Login.pkg',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\Login.pkg',
+   'DATA'),
+  ('build\\Login\\PKG-00.toc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\PKG-00.toc',
+   'DATA'),
+  ('build\\Login\\PYZ-00.pyz',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\PYZ-00.pyz',
+   'DATA'),
+  ('build\\Login\\PYZ-00.toc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\PYZ-00.toc',
+   'DATA'),
+  ('build\\Login\\Tree-00.toc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\Tree-00.toc',
+   'DATA'),
+  ('build\\Login\\Tree-01.toc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\Tree-01.toc',
+   'DATA'),
+  ('build\\Login\\Tree-02.toc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\Tree-02.toc',
+   'DATA'),
+  ('build\\Login\\Tree-03.toc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\Tree-03.toc',
+   'DATA'),
+  ('build\\Login\\Tree-04.toc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\Tree-04.toc',
+   'DATA'),
+  ('build\\Login\\warn-Login.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\warn-Login.txt',
+   'DATA'),
+  ('build\\Login\\xref-Login.html',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\xref-Login.html',
+   'DATA'),
+  ('build\\Login\\localpycs\\pyimod01_archive.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\localpycs\\pyimod01_archive.pyc',
+   'DATA'),
+  ('build\\Login\\localpycs\\pyimod02_importers.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\localpycs\\pyimod02_importers.pyc',
+   'DATA'),
+  ('build\\Login\\localpycs\\pyimod03_ctypes.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\localpycs\\pyimod03_ctypes.pyc',
+   'DATA'),
+  ('build\\Login\\localpycs\\pyimod04_pywin32.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\localpycs\\pyimod04_pywin32.pyc',
+   'DATA'),
+  ('build\\Login\\localpycs\\struct.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\build\\Login\\localpycs\\struct.pyc',
+   'DATA')])

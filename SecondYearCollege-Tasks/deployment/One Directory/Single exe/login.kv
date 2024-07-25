@@ -1,0 +1,105 @@
+
+<TextInput>
+    multiline: False
+    font_size: "20sp"
+    size_hint: dp(.41),dp(.1)
+    pos_hint: {"center_x": 0.5, "center_y": 0.5}
+
+<Login>:
+    name:'login'
+    GridLayout:
+        cols:1
+        size: root.width, root.height
+        padding:dp(25)
+        canvas:
+            Rectangle:
+                source: 'bg.jpg'
+                size: self.size
+                pos: self.pos
+        GridLayout:
+            cols:1
+            padding:dp(25)
+            canvas:
+                Color:
+                    rgba: 1, 1, 1, 0.25
+                RoundedRectangle:
+                    size: self.size
+                    pos: self.pos
+                    radius: [38,]
+            FloatLayout:
+                size: dp(450),dp(650)
+                pos_hint: {"center_x": 0.5, "center_y":.5}
+                canvas:
+                    Color:
+                        rgba: 1, 1, 1, 0.3
+                    RoundedRectangle:
+                        size: self.size
+                        pos: self.pos
+                        radius: [38,]
+                BoxLayout:
+                    orientation: 'vertical'
+                    spacing: dp(10)
+                    padding:dp(30)
+                    pos_hint: {"center_x": 0.5, "center_y":.5}
+                    Label:
+                        text:'[u]SignIn[/u]'
+                        color: 240/255, 160/255, 75/255
+                        font_size: "55sp"
+                        markup: True  
+                        bold: True
+                        size_hint: 1,1
+                
+                    TextInput:
+                        id: un
+                        hint_text:'Username'
+                        halign: 'center'
+                        multiline: False
+                    TextInput:
+                        id: pword
+                        hint_text: 'Password'
+                        password: True
+                        halign: 'center'
+                        multiline: False
+                    Button:
+                        text: 'Login'
+                        font_size: '22sp'
+                        size_hint: dp(.41),dp(.1)
+                        pos_hint: {"center_x": 0.5, "center_y": 0.5}
+                        background_color:(0,0,0,0)
+                        background_normal:''
+                        canvas.before:
+                            Color:
+                                rgba: 211/255, 107/255, 0/255,1
+                            RoundedRectangle:
+                                size: self.size
+                                pos: self.pos
+                                radius: [10,]
+                        on_press: root.signin_button()
+                    Label:
+                        text: 'Forgot Password?'
+                        size_hint: dp(.7),dp(.1)
+                        pos_hint: {"center_x": 0.5, "center_y": 0.5}   
+                    BoxLayout:
+                        orientation: "horizontal"
+                        padding: dp(0.5)
+                        Label:
+                            text:"Don't have an account?"
+                            font_size: "10sp"
+                            size_hint: dp(.3),dp(.2)
+                            pos_hint: {"center_x": 0.5, 'y': 0.10}
+                        FloatLayout:    
+                            Button:
+                                text:'Register'
+                                font_size: '15sp'
+                                size_hint: dp(.3),dp(.1)
+                                pos_hint: {'right':1.27, 'y': 0.3}
+                                
+                                background_color:(0,0,0,0)
+                                background_normal:''
+                                canvas.before:
+                                    Color:
+                                        rgba: 24/255, 58/255, 29/255,1
+                                    RoundedRectangle:
+                                        size: self.size
+                                        pos: self.pos
+                                        radius: [15,]

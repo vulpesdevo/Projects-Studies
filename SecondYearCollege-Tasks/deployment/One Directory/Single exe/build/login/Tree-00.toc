@@ -1,0 +1,101 @@
+('C:\\Users\\Mark '
+ 'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+ 'Directory\\Single exe\\',
+ None,
+ [],
+ 'DATA',
+ [('bg.jpg',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\bg.jpg',
+   'DATA'),
+  ('Login.spec',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\Login.spec',
+   'DATA'),
+  ('loginDESIGN.kv',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\loginDESIGN.kv',
+   'DATA'),
+  ('main.py',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\main.py',
+   'DATA'),
+  ('vulpes.ico',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\vulpes.ico',
+   'DATA'),
+  ('vulpes.jpg',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\vulpes.jpg',
+   'DATA'),
+  ('build\\login\\Analysis-00.toc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\build\\login\\Analysis-00.toc',
+   'DATA'),
+  ('build\\login\\base_library.zip',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\build\\login\\base_library.zip',
+   'DATA'),
+  ('build\\login\\graph-login.dot',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\build\\login\\graph-login.dot',
+   'DATA'),
+  ('build\\login\\login.exe.manifest',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\build\\login\\login.exe.manifest',
+   'DATA'),
+  ('build\\login\\PYZ-00.pyz',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\build\\login\\PYZ-00.pyz',
+   'DATA'),
+  ('build\\login\\PYZ-00.toc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\build\\login\\PYZ-00.toc',
+   'DATA'),
+  ('build\\login\\warn-login.txt',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\build\\login\\warn-login.txt',
+   'DATA'),
+  ('build\\login\\xref-login.html',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\build\\login\\xref-login.html',
+   'DATA'),
+  ('build\\login\\localpycs\\pyimod01_archive.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\build\\login\\localpycs\\pyimod01_archive.pyc',
+   'DATA'),
+  ('build\\login\\localpycs\\pyimod02_importers.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\build\\login\\localpycs\\pyimod02_importers.pyc',
+   'DATA'),
+  ('build\\login\\localpycs\\pyimod03_ctypes.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\build\\login\\localpycs\\pyimod03_ctypes.pyc',
+   'DATA'),
+  ('build\\login\\localpycs\\pyimod04_pywin32.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\build\\login\\localpycs\\pyimod04_pywin32.pyc',
+   'DATA'),
+  ('build\\login\\localpycs\\struct.pyc',
+   'C:\\Users\\Mark '
+   'Francis\\Documents\\School\\ITPE02\\KIVY_DEV\\deployment\\One '
+   'Directory\\Single exe\\build\\login\\localpycs\\struct.pyc',
+   'DATA')])

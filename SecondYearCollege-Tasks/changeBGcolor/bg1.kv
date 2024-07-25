@@ -1,0 +1,49 @@
+#:import utils kivy.utils
+<Button>
+    font_size: 32
+    background_color:(0,0,1,1)
+    pos_hint: {'center_x': .5 }
+    size_hint: (None,None)
+    width: 500
+    height: 50
+
+<TextInput>
+    background_color : utils.get_color_from_hex('#CFB997')
+
+<Label>
+    font_size: 32
+
+<myColor>
+    BoxLayout:
+        orientation : "vertical"
+        size : root.width, root.height
+        spacing : 20
+        padding : 20
+        
+        Label:
+            text : "Name:"
+###----------------2nd way to change color background ----------------
+            background_color: (123/255,143/255,161/255,1)
+            canvas.before:
+                Color:
+                    rgba: self.background_color
+                Rectangle:
+                    size: self.size 
+                    pos: self.pos
+
+###----------------2nd way to change color background ----------------
+            italic : True
+            bold : True 
+            outline_color : (0,0,0)
+            outline_width : 2
+        TextInput:
+            id: input 
+            multiline: False
+            
+        Button:
+            text : "ADD" 
+        Button:
+            text : "CLEAR"
+            on_press : root.cl() 
+            background_color :(1,0,0,1)
+            
