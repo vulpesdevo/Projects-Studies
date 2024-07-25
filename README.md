@@ -15,7 +15,7 @@ I am Mark Francis, a Student taking Bachelor of Science in Information Technolog
 
 ## Clone my repo
 
-For most projects, you can clone the repository and follow the installation instructions provided in each project's directory. Here is a general guide on how to get started:
+For most projects, you can clone the repository
 
 **Clone the repository:**
    ```bash
