@@ -18,5 +18,6 @@ I am Mark Francis, a Student taking Bachelor of Science in Information Technolog
 For most projects, you can clone the repository and follow the installation instructions provided in each project's directory. Here is a general guide on how to get started:
 
 **Clone the repository:**
-   ```bash git clone https://github.com/VulpesDevo/Projects-Studies.git
+   ```bash
+   git clone https://github.com/VulpesDevo/Projects-Studies.git
 
