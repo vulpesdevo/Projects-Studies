@@ -875,7 +875,7 @@ span{
     flex-direction: column;
     min-height: auto;
     padding-bottom: 5rem;
-    margin: 5rem;
+    margin: 2rem;
 }
 .education .edu-row {
     display: flex;

@@ -48,7 +48,7 @@ navLinks.forEach(link => {
 
 // Initialize the Typed.js text animation
 let typed = new Typed(".multiple-text", {
-    strings: ["Web Developer", "Human"],
+    strings: ["Future Web Developer", "Student"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
